@@ -1,4 +1,5 @@
 todoEmber
 =========
 
-Ember.js Cucumber.js
+1. npm install
+2. node app.js
