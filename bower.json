@@ -1,0 +1,29 @@
+{
+  "name": "todoEmber",
+  "version": "0.0.1",
+  "homepage": "https://github.com/sklyarov-ivan/todoEmber",
+  "authors": [
+    "Ivan Sklyarov <sklyarov.161@gmail.com>"
+  ],
+  "description": "todo application",
+  "main": "app.js",
+  "keywords": [
+    "todo.",
+    "ember.js"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "private": true,
+  "dependencies": {
+    "ember": "1.5.1",
+    "ember-data": "1.0.0-beta.5",
+    "handlebars": "1.3.0",
+    "jquery": "1.10.2"
+  }
+}
